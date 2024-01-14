@@ -1,4 +1,4 @@
-# TshirtandCo - Custom T-shirt Design Platform
+# TshirtandCo. - Custom T-shirt Design Platform
 
 ## Overview
 
